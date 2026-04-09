@@ -16,7 +16,7 @@ given by employees of [**GISA GmbH**](https://www.gisa.de/) at conferences, meet
 
 - by **André Liebigt** ([@LinkedIn](https://www.linkedin.com/in/andre-liebigt/), [@GitHub](https://github.com/cilq))
 - at [Chemnitzer Linux-Tage 2025](https://chemnitzer.linux-tage.de/2025/de/programm/beitrag/174/)
-  - [video](https://media.ccc.de/v/clt25-174-ansible-mit-awx-im-unternehmen-skalieren) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+  - [PDF](slides/2025/AnsibleAWXskalieren_AndreLiebigt.pdf), [video](https://media.ccc.de/v/clt25-174-ansible-mit-awx-im-unternehmen-skalieren) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ## 🗺️ GIS Applications 
