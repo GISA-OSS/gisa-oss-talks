@@ -22,9 +22,9 @@ given by employees of [**GISA GmbH**](https://www.gisa.de/) at conferences, meet
 ## 🗺️ GIS Applications 
 
 ### Karten. Daten. Open Source: Unsere Reise zu GISA Maps <sub>(💬DE)</sub>
-- by **Clemens Schenke-Hildebrandt** ([@LinkedIn](https://www.linkedin.com/in/clemensschenke/))
+- by **Clemens Schenke-Hildebrandt** ([@LinkedIn](https://www.linkedin.com/in/clemensschenke/), [@GitHub](https://github.com/clmnsspkt))
 - at [Chemnitzer Linux-Tage 2025](https://chemnitzer.linux-tage.de/2025/de/programm/beitrag/305/)
-  - [PDF](https://chemnitzer.linux-tage.de/2025/media/programm/folien/305.pdf), [video](https://media.ccc.de/v/clt25-305-karten-daten-open-source-unsere-reise-zu-gisa-maps) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+  - [PDF](slides/2025/GISAMaps_ClemensSchenke-Hildebrandt.pdf), [video](https://media.ccc.de/v/clt25-305-karten-daten-open-source-unsere-reise-zu-gisa-maps) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ## 🖴 IT Infrastructure
